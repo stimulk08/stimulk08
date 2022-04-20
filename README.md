@@ -1,7 +1,7 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stimulk08&count_private=true&hide=prs,contribs&theme=radical )
 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stimulk08&theme=rogue&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stimulk08&theme=synthwave-84&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/stimulk08)
