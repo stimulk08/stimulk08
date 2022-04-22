@@ -1,5 +1,5 @@
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stimulk08&count_private=true&hide=prs,contribs&theme=radical )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stimulk08&count_private=true,contribs&theme=radical )
 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stimulk08&theme=synthwave-84&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
