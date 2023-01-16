@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <div >I'm Artem, a backend freelance developer 👨‍💻 working remotely since 2020 🚀</div> 
 * 🌍  I'm based in Ekaterinburg
-* 🧠  I'm learning A Nest js framework and Flutter Get X
+* 🧠  I'm learning Nest js framework and Flutter Get X
 
 **My Skill Set**   
 <table><tr><td valign="top" width="33%">
